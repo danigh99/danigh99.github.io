@@ -258,6 +258,20 @@ export const experience: TimelineItem[] = [
       </p>
     ),
   },
+  {
+    date: 'December 2020 - February 2022',
+    location: 'IA SOFT SOLUTIONS',
+    title: 'Freelancer IT Consultant',
+    content: (
+      <p>
+        CEO managing software development in: Sails.JS, Laravel, PHP, React… <br></br>
+        Software architecture, sysadmin (Bash, Cron…), problem solver. <br></br>
+        I have managed, designed, developed and maintained software systems as a software
+        consultant. For example, I have developed management software for the Alcobendas
+        town hall with which more than 55,000 social aids have been assigned.
+      </p>
+    ),
+  },
 ];
 
 /**
