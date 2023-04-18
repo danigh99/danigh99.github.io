@@ -207,8 +207,8 @@ export const portfolioItems: PortfolioItem[] = [
 export const education: TimelineItem[] = [
   {
     date: '2019 - 2021',
-    location: 'Clown college',
-    title: 'Higher Technician in Multi-platform Applications Development. Professional Profile in Videogames. (Institut Sabadell)',
+    location: 'Institut Sabadell',
+    title: 'Higher Technician in Multi-platform Applications Development. Professional Profile in Videogames.',
     content: <p>Great software development skills adquired there, C# and OOP strong oriented formation.</p>,
   },
   {
