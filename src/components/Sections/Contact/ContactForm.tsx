@@ -35,6 +35,7 @@ const ContactForm: FC = memo(() => {
       /**
        * This is a good starting point to wire up your form submission logic
        * */
+      alert("Backend not connected ;), Try to send an email to: dabrelad@gmail.com")
       console.log('Data to send: ', data);
     },
     [data],
