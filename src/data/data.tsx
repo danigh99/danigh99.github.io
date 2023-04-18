@@ -132,8 +132,8 @@ export const skills: SkillGroup[] = [
         level: 9,
       },
       {
-        name: 'Typescript',
-        level: 7,
+        name: 'Angular',
+        level: 6,
       },
       {
         name: 'CSS',
@@ -159,7 +159,7 @@ export const skills: SkillGroup[] = [
     ],
   },
   {
-    name: 'Mobile development',
+    name: 'Others',
     skills: [
       {
         name: 'React Native',
@@ -167,7 +167,11 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Android Studio',
-        level: 7,
+        level: 6,
+      },
+      {
+        name: 'Linux',
+        level: 9,
       },
     ],
   },
