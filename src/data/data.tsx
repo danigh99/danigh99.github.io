@@ -267,7 +267,7 @@ export const testimonial: TestimonialSection = {
   imageSrc: testimonialImage,
   testimonials: [
     {
-      name: 'Guillermo Sánchez Moral',
+      name: 'Guillermo Sánchez Moral - Wealty CTO',
       text: 'Encantado de haber tenido a Daniel en el equipo. Es una persona resolutiva, con mucha inquietud por aprender y gran sentido de la responsabilidad. Ha sido todo un placer poder trabajar juntos en este proyecto.',
       image: "https://media.licdn.com/dms/image/D4D03AQHZXWDIH6qbkw/profile-displayphoto-shrink_800_800/0/1673897885174?e=1687392000&v=beta&t=2mXDzg-wNVoWkacqI_dZS_yW_ynlCbeQsR56EFXFIWM",
     },
