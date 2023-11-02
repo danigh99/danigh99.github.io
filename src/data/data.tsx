@@ -95,7 +95,7 @@ export const aboutData: About = {
   fullstack developer, integrator ....`,
   aboutItems: [
     {label: 'Location', text: 'Barcelona, Spain', Icon: MapIcon},
-    {label: 'Age', text: '23', Icon: CalendarIcon},
+    {label: 'Age', text: '24', Icon: CalendarIcon},
     {label: 'Nationality', text: 'Spanish', Icon: FlagIcon},
     {label: 'Interests', text: 'Travelling, Videogames, Music', Icon: SparklesIcon},
     {label: 'Study', text: 'Multi-Platform Application Development', Icon: AcademicCapIcon},
@@ -129,7 +129,7 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'React',
-        level: 9,
+        level: 8,
       },
       {
         name: 'Angular',
@@ -146,7 +146,7 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'MySQL',
-        level: 8,
+        level: 9,
       },
       {
         name: 'Laravel',
@@ -154,7 +154,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Python',
-        level: 8,
+        level: 9,
       },
     ],
   },
@@ -163,7 +163,7 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'React Native',
-        level: 9,
+        level: 8,
       },
       {
         name: 'Android Studio',
@@ -190,7 +190,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'RelAI',
     description: 'The emotion detection system that analyzes biometric data based on deep learning.',
-    url: 'https://admin.werelai.com/',
+    url: 'https://www.linkedin.com/company/relaiemotion',
     image: porfolioImage2,
   },
   {
@@ -221,7 +221,22 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
-    date: 'February 2023 - Present',
+    date: 'August 2023 - Present',
+    location: 'relAI',
+    title: 'CTO',
+    content: (
+      <p>
+          Development team management (team of two developers and one designer). <br></br>
+          Software architecture, complex systems, networks. <br></br>
+          Deployment and maintenance of servers in Microsoft Azure. <br></br>
+          Design and implementation of REST API in Laravel. <br></br>
+          Design and maintenance of databases. <br></br>
+          AI implementation in Python. <br></br>
+      </p>
+    ),
+  },
+  {
+    date: 'February 2023 - August 2023',
     location: 'Risk Systems Consulting',
     title: 'Integration Engineer',
     content: (
